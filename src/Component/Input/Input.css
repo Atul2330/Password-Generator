@@ -1,0 +1,29 @@
+.Form{
+    background-color: wheat;
+    height: 500px;
+    width: 500px;
+    border-radius: 15%;
+    box-shadow: 15px 14px 10px coral;
+    padding: 20px;
+    justify-items: center;
+    /* vertical-align: center; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+input{
+    border-radius: 3px;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+label{
+    padding: 6px;
+    font-size: smaller;
+}
+label.checkbox{
+    background-color: aqua;
+}

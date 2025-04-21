@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  align-content: center;
+  background-color:rgb(43, 68, 70);
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+button{
+  /* height: 40px; */
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-color: silver;
+
 }
